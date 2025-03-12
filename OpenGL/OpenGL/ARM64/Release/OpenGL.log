@@ -1,0 +1,12 @@
+﻿  Camera.cpp
+  Mesh.cpp
+  Model3D.cpp
+  Shader.cpp
+  SkyBox.cpp
+  main.cpp
+Z:\Desktop\SSC\OpenGL\OpenGL\main.cpp(133,29): warning C4305: '=': truncation from 'double' to 'float'
+  stb_image.cpp
+  tiny_obj_loader.cpp
+  Generating code
+  Finished generating code
+  OpenGL.vcxproj -> Z:\Desktop\SSC\OpenGL\ARM64\Release\OpenGL.exe
